@@ -8,7 +8,7 @@
 - [PHP](https://www.php.net/downloads.php) 7.3
 
 
-## 📝 Requirements
+## 📋 Requirements
 
 - Docker Desktop.  (I'm using this with [Docker Desktop for Windows](https://docs.docker.com/docker-for-windows/install/).)
 
@@ -27,4 +27,8 @@
 - [Docker Official WordPress Images](https://hub.docker.com/_/wordpress/)
 - [Docker WordPress Image GitHub Repo](https://github.com/docker-library/wordpress)
 - [PHP INI Directives](https://www.php.net/manual/en/ini.list.php)
+
+## 📝 To-DO
+
+- [WP-CLI Commands](https://developer.wordpress.org/cli/commands/)
 
