@@ -18,6 +18,7 @@ Docker Desktop.  (I'm using this with [Docker Desktop for Windows](https://docs.
 - [Visual Studio Code](https://code.visualstudio.com/Download) 
 - [Docker for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker) 
 
-## Links
+## 🔗 Links
 
 - [VSCode: Working with containers](https://code.visualstudio.com/docs/containers/overview)
+- [Compose file version 3 reference](https://docs.docker.com/compose/compose-file/)
