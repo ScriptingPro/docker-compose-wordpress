@@ -4,7 +4,7 @@
 
 - [Wordpress](https://wordpress.org/download/) 5.1.1
 - [Apache](https://httpd.apache.org/download.cgi) 2.4
-- [MySQL]https://www.mysql.com/downloads/) 5.7
+- [MySQL](https://www.mysql.com/downloads/) 5.7
 - [PHP](https://www.php.net/downloads.php) 7.3
 
 
