@@ -21,4 +21,9 @@ Docker Desktop.  (I'm using this with [Docker Desktop for Windows](https://docs.
 ## 🔗 Links
 
 - [VSCode: Working with containers](https://code.visualstudio.com/docs/containers/overview)
+- [Quickstart: Compose and WordPress](https://docs.docker.com/compose/wordpress/)
 - [Compose file version 3 reference](https://docs.docker.com/compose/compose-file/)
+- [Docker Official WordPress Images](https://hub.docker.com/_/wordpress/)
+- [Docker WordPress Image GitHub Repo](https://github.com/docker-library/wordpress)
+
+
