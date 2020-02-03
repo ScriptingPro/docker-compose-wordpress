@@ -10,7 +10,7 @@
 
 ## 📝 Requirements
 
-Docker Desktop.  (I'm using this with [Docker Desktop for Windows](https://docs.docker.com/docker-for-windows/install/).)
+- Docker Desktop.  (I'm using this with [Docker Desktop for Windows](https://docs.docker.com/docker-for-windows/install/).)
 
 
 ## 🛠️ Other Handy Tools
@@ -26,5 +26,5 @@ Docker Desktop.  (I'm using this with [Docker Desktop for Windows](https://docs.
 - [Compose file version 3 reference](https://docs.docker.com/compose/compose-file/)
 - [Docker Official WordPress Images](https://hub.docker.com/_/wordpress/)
 - [Docker WordPress Image GitHub Repo](https://github.com/docker-library/wordpress)
-
+- [PHP INI Directives](https://www.php.net/manual/en/ini.list.php)
 
